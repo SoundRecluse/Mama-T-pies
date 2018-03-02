@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+    body{
+    background-color:red;
+    }
+      
+
+
+
+    </head>
+    <body>
+      <div id="top_bar">
+        <div id="title_div">
+        </div>
+      </div>
+    
+    
+    
+    </body>
+
+
+
+
+</html>
